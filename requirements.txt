@@ -1,3 +1,3 @@
 streamlit 
 groq
-PdfReader
+pypdf
